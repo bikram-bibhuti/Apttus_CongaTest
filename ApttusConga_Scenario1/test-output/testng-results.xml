@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-01T19:39:44 IST" name="Suite" finished-at="2020-08-01T19:40:15 IST" duration-ms="30429">
+    <groups>
+    </groups>
+    <test started-at="2020-08-01T19:39:44 IST" name="Test" finished-at="2020-08-01T19:40:15 IST" duration-ms="30429">
+      <class name="eCommerceTest.ApttusTest_ecommerce">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:eCommerceTest.ApttusTest_ecommerce@2bbf180e]" started-at="2020-08-01T19:39:44 IST" name="initialize" finished-at="2020-08-01T19:39:58 IST" duration-ms="13979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="ecommerceTest()[pri:0, instance:eCommerceTest.ApttusTest_ecommerce@2bbf180e]" started-at="2020-08-01T19:39:58 IST" name="ecommerceTest" finished-at="2020-08-01T19:40:14 IST" duration-ms="15699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecommerceTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:eCommerceTest.ApttusTest_ecommerce@2bbf180e]" started-at="2020-08-01T19:40:14 IST" name="teardown" finished-at="2020-08-01T19:40:15 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- eCommerceTest.ApttusTest_ecommerce -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
